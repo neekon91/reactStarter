@@ -2,11 +2,12 @@ import React, { Component } from 'react';
 
 export default class App extends Component{
   render(){
-		return (
-			<div>
+    return (
+      <div>
         <h1>Hello World!</h1>
-				{ this.props.children }
-			</div>
-		);
-	}
+	{ this.props.children }
+      </div>
+    );
+  }
 }
+
