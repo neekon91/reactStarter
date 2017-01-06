@@ -6,7 +6,7 @@ Checkout this repo, install dependencies, then start webpack with the following:
 
 ```
 	> git clone https://github.com/neekon91/reactStarter.git
-	> cd ReduxSimpleStarter
+	> cd reactStarter
 	> npm install
 	> nodemon
 ```
